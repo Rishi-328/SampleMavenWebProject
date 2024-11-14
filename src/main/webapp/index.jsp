@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Welcome to Sample Maven Web Project</h2>
+<h2>Hello Welcome </h2>
 </body>
 </html>
